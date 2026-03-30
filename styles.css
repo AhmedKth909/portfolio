@@ -529,112 +529,68 @@ body {
     color: rgba(255, 255, 255, 0.5);
 }
 
-/* Responsive Styles */
 @media (max-width: 768px) {
+
     .nav-panels {
         flex-direction: column;
         align-items: center;
-        bottom: 120px;
-        gap: 20px;
-    }
-    
-    .nav-panel {
-        width: 280px;
-        height: 140px;
-        flex-direction: row;
-        padding: 0 25px;
-        gap: 20px;
-    }
-    
-    .panel-icon {
-        width: 50px;
-        height: 50px;
-        margin-bottom: 0;
-    }
-    
-    .contact-button {
-        bottom: 20px;
-        right: 50%;
-        transform: translateX(50%);
-    }
-    
-    .contact-button:hover {
-        transform: translateX(50%) translateY(-3px);
-    }
-    
-    .page-indicator {
-        left: 15px;
-    }
-    
-    
-    .gallery-grid {
-        grid-template-columns: 1fr;
-    }
-      .container {
-    flex-direction: column;
-    padding: 10px;
-  }
-
-  .main-title {
-    font-size: 24px;
-  }
-}
-
-}
-/* ================= MOBILE FIX ================= */
-@media (max-width: 768px) {
-
-    /* تقليل حجم العناوين */
-    .main-title {
-        font-size: 28px;
-        text-align: center;
-    }
-
-    .subtitle {
-        font-size: 14px;
-        text-align: center;
-    }
-
-    /* تعديل البانلز */
-    .nav-panels {
-        flex-direction: column;
+        bottom: 110px;
         gap: 15px;
         padding: 0 15px;
     }
-
+    
     .nav-panel {
         width: 100%;
-        padding: 20px;
+        max-width: 320px;
+        height: 120px;
         flex-direction: row;
+        padding: 15px 20px;
+        gap: 15px;
         justify-content: space-between;
+    }
+    
+    .panel-icon {
+        width: 40px;
+        height: 40px;
+        margin-bottom: 0;
     }
 
     .panel-title {
-        font-size: 18px;
+        font-size: 16px;
     }
 
     .panel-description {
         font-size: 12px;
     }
 
-    .panel-icon {
-        width: 40px;
-        height: 40px;
+    .main-title {
+        font-size: 26px;
     }
 
-    /* زر التواصل */
+    .subtitle {
+        font-size: 14px;
+    }
+
+    /* زر التواصل (تصحيح مهم) */
     .contact-button {
-        width: 90%;
+        width: 85%;
         left: 50%;
+        right: auto;
         transform: translateX(-50%);
-        bottom: 20px;
+        bottom: 15px;
         font-size: 14px;
         padding: 12px;
     }
 
-    /* indicator dots */
+    .contact-button:hover {
+        transform: translateX(-50%) translateY(-3px);
+    }
+
     .page-indicator {
         left: 10px;
     }
 
+    .gallery-grid {
+        grid-template-columns: 1fr;
+    }
 }
