@@ -549,7 +549,7 @@ body {
     justify-content: flex-start;  /* أهم سطر */
     align-items: center;
 
-    padding-top: 70px;   /* ← هذا الذي يرفع النص */
+    padding-top: 50px;   /* ← هذا الذي يرفع النص */
     padding-left: 20px;
     padding-right: 20px;
 
