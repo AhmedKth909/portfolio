@@ -581,3 +581,60 @@ body {
 }
 
 }
+/* ================= MOBILE FIX ================= */
+@media (max-width: 768px) {
+
+    /* تقليل حجم العناوين */
+    .main-title {
+        font-size: 28px;
+        text-align: center;
+    }
+
+    .subtitle {
+        font-size: 14px;
+        text-align: center;
+    }
+
+    /* تعديل البانلز */
+    .nav-panels {
+        flex-direction: column;
+        gap: 15px;
+        padding: 0 15px;
+    }
+
+    .nav-panel {
+        width: 100%;
+        padding: 20px;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+
+    .panel-title {
+        font-size: 18px;
+    }
+
+    .panel-description {
+        font-size: 12px;
+    }
+
+    .panel-icon {
+        width: 40px;
+        height: 40px;
+    }
+
+    /* زر التواصل */
+    .contact-button {
+        width: 90%;
+        left: 50%;
+        transform: translateX(-50%);
+        bottom: 20px;
+        font-size: 14px;
+        padding: 12px;
+    }
+
+    /* indicator dots */
+    .page-indicator {
+        left: 10px;
+    }
+
+}
