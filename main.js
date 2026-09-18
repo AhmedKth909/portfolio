@@ -149,6 +149,9 @@ const galleryData = {
         subtitle: 'مجموعة مختارة من أفضل أعمال التصميم الجرافيكي',
         categories: ['الكل', 'العروض التقديمية', 'حملات وسائل التواصل الاجتماعي', 'الكاروسيل', 'الإعلانات + تصاميم', 'غلافات Reels'],
         items: [
+             { title: 'تصميم إعلان لمنتج', category: 'الإعلانات + تصاميم', description: 'إعادة تصميم إعلان لمنتج', type: 'image', src: './assets/design/spintun.webp',thumbnail: './assets/design/spintun.webp' },
+             { title: 'تصميم لوصول الفريق إلى عدد من المتابعين', category: 'الإعلانات + تصاميم', description: 'تصميم  احتفالي على الفيسبوك', type: 'image', src: './assets/design/2k.webp',thumbnail: './assets/design/2k.webp' },
+             { title: 'تصميم إعلان عصير صحي', category: 'الإعلانات + تصاميم', description: 'تصميم يحمل فكرة خلو المنتج من السكريات المضافة ', type: 'image', src: './assets/design/apple.webp',thumbnail: './assets/design/apple.webp' },
              { title: 'تصميم لكلية الهندسة المدنية', category: 'الإعلانات + تصاميم', description: 'تصميم لكلية الهندسة المدنية في الفريق الجامعي التطوعي', type: 'image', src: './assets/design/city.webp',thumbnail: './assets/design/city.webp' },
              { title: ' تصميم الفوز بـ WRO 2026 ', category: 'الإعلانات + تصاميم', description: ' تصميم بوستر الفوز WRO 2026 ', type: 'image', src: './assets/design/cele.webp',thumbnail: './assets/design/cele.webp' },
             { title: ' تصميم إعلان بروتين', category: 'الإعلانات + تصاميم', description: ' تصميم إعلان لمنتج بروتين بدون عنصر بشري ', type: 'image', src: './assets/design/muscle.webp',thumbnail: './assets/design/muscle.webp' },
