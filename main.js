@@ -149,6 +149,7 @@ const galleryData = {
         subtitle: 'مجموعة مختارة من أفضل أعمال التصميم الجرافيكي',
         categories: ['الكل', 'العروض التقديمية', 'حملات وسائل التواصل الاجتماعي', 'الكاروسيل', 'الإعلانات + تصاميم', 'غلافات Reels'],
         items: [
+             { title: 'تصميم لكلية الهندسة المدنية', category: 'الإعلانات + تصاميم', description: 'تصميم لكلية الهندسة المدنية في الفريق الجامعي التطوعي', type: 'image', src: './assets/design/city.webp',thumbnail: './assets/design/city.webp' },
              { title: ' تصميم الفوز بـ WRO 2026 ', category: 'الإعلانات + تصاميم', description: ' تصميم بوستر الفوز WRO 2026 ', type: 'image', src: './assets/design/cele.webp',thumbnail: './assets/design/cele.webp' },
             { title: ' تصميم إعلان بروتين', category: 'الإعلانات + تصاميم', description: ' تصميم إعلان لمنتج بروتين بدون عنصر بشري ', type: 'image', src: './assets/design/muscle.webp',thumbnail: './assets/design/muscle.webp' },
             { title: '  تصميم متطوع الشهر', category: 'الإعلانات + تصاميم', description: ' تصميم متطوع الشهر لفريق الهمك للذكاء الاصطناعي و الروبوتيك ', type: 'image', src: './assets/design/m0.webp',thumbnail: './assets/design/m0.webp' },
