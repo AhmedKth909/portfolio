@@ -149,6 +149,7 @@ const galleryData = {
         subtitle: 'مجموعة مختارة من أفضل أعمال التصميم الجرافيكي',
         categories: ['الكل', 'العروض التقديمية', 'حملات وسائل التواصل الاجتماعي', 'الكاروسيل', 'الإعلانات + تصاميم', 'غلافات Reels'],
         items: [
+            { title: ' تصميم إعلان بروتين', category: 'الإعلانات + تصاميم', description: ' تصميم إعلان لمنتج بروتين بدون عنصر بشري ', type: 'image', src: './assets/design/muscle.webp',thumbnail: './assets/design/muscle.webp' },
             { title: '  تصميم متطوع الشهر', category: 'الإعلانات + تصاميم', description: ' تصميم متطوع الشهر لفريق الهمك للذكاء الاصطناعي و الروبوتيك ', type: 'image', src: './assets/design/m0.webp',thumbnail: './assets/design/m0.webp' },
             { title: 'تصميم إعلان ورشة تفاعلية ', category: 'الإعلانات + تصاميم', description: ' تصميم إعلان ورشة لفريق الهمك للذكاء الاصطناعي و الروبوتيك اقدمها أنا مدير الميديا والتسويق', type: 'image', src: './assets/design/adwork.webp',thumbnail: './assets/design/adwork.webp' },
             { title: 'عرض تقديمي احترافي', category: 'العروض التقديمية', description: 'تصميم عرض تقديمي حديث لشركة للمعهد العالي لإدارة الاعمال HIBA', type: 'pdf', src: './assets/design/01.pdf',thumbnail: './assets/design/cover01.jpg' },
