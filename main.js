@@ -203,6 +203,7 @@ const galleryData = {
         subtitle: 'مجموعة مختارة من أفضل أعمال المونتاج والفيديو',
         categories: ['الكل', 'Reels', 'فيديوهات AI', 'المونتاج'],
         items: [
+            { title: 'إعلان لهوى الشام', category: 'Reels', description: 'إعلان لمنتج من هوى الشام على شكل reel', type: 'video', src: 'https://drive.google.com/file/d/1Ely-_DVMqa4RBevJ_CVH-r8DQxay-t8k/preview', thumbnail: './assets/editing/hawa.png' },
             { title: 'Reel تشويقي لحدث في النادي', category: 'Reels', description: 'مونتاج ريل تشويقي لمشاركة النادي في معرض دمشق الدولي', type: 'video', src: 'https://drive.google.com/file/d/1g-qRWN-MR2ynj_nmlwX1mgkjABxgYBig/preview', thumbnail: './assets/editing/99.png' },
             { title: 'Reel ترويجي', category: 'Reels', description: 'مونتاج Reel ترويجي لحملة إعلانية لوائل زرزر', type: 'video', src: 'https://drive.google.com/file/d/1G3AIaBFvrEi4mRg5Byy5toDEfHiJ3PTs/preview', thumbnail: './assets/editing/18.png' },
             { title: 'Reel ترويجي', category: 'Reels', description: 'مونتاج ريل للمحامي عمر أحمد فيتوري', type: 'video', src: 'https://drive.google.com/file/d/18GT9jbSx9H6i1h5duL0OHOGgPEY2UeeL/preview', thumbnail: './assets/editing/14.png' },
