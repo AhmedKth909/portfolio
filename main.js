@@ -151,6 +151,8 @@ const galleryData = {
         items: [
             { title: '  تصميم متطوع الشهر', category: 'الإعلانات + تصاميم', description: ' تصميم متطوع الشهر لفريق الهمك للذكاء الاصطناعي و الروبوتيك ', type: 'png', src: './assets/design/m0.png',
   thumbnail: './assets/design/m0.png' },
+            { title: 'تصميم إعلان ورشة تفاعلية ', category: 'الإعلانات + تصاميم', description: ' تصميم إعلان ورشة لفريق الهمك للذكاء الاصطناعي و الروبوتيك اقدمها أنا مدير الميديا والتسويق', type: 'webp', src: './assets/design/adwork.webp',
+  thumbnail: './assets/design/adwork.webp' },
             { title: 'عرض تقديمي احترافي', category: 'العروض التقديمية', description: 'تصميم عرض تقديمي حديث لشركة للمعهد العالي لإدارة الاعمال HIBA', type: 'pdf', src: './assets/design/01.pdf',
   thumbnail: './assets/design/cover01.jpg' },
             { title: 'حملة سوشيال ميديا', category: 'حملات وسائل التواصل الاجتماعي', description: 'تصميم منشورات لحملة تسويقية شاملة', type: 'image', src: './assets/design/camp.webp', thumbnail: './assets/design/camp.png' },
