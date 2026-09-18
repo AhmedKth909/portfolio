@@ -201,6 +201,7 @@ const galleryData = {
         subtitle: 'مجموعة مختارة من أفضل أعمال المونتاج والفيديو',
         categories: ['الكل', 'Reels', 'فيديوهات AI', 'المونتاج'],
         items: [
+            { title: 'Reel تشويقي لحدث في النادي', category: 'Reels', description: 'مونتاج ريل تشويقي لمشاركة النادي في معرض دمشق الدولي', type: 'video', src: 'https://drive.google.com/file/d/1g-qRWN-MR2ynj_nmlwX1mgkjABxgYBig/view?usp=sharing', thumbnail: './assets/editing/99.png' },
             { title: 'Reel ترويجي', category: 'Reels', description: 'مونتاج Reel ترويجي لحملة إعلانية لوائل زرزر', type: 'video', src: 'https://drive.google.com/file/d/1G3AIaBFvrEi4mRg5Byy5toDEfHiJ3PTs/preview', thumbnail: './assets/editing/18.png' },
             { title: 'Reel ترويجي', category: 'Reels', description: 'مونتاج ريل للمحامي عمر أحمد فيتوري', type: 'video', src: 'https://drive.google.com/file/d/18GT9jbSx9H6i1h5duL0OHOGgPEY2UeeL/preview', thumbnail: './assets/editing/14.png' },
             { title: 'Reel ترويجي', category: 'Reels', description:'مونتاج ريل إبراهيم طانه ', type: 'video', src: 'https://drive.google.com/file/d/1U5qn-1TdV8mzXEdnZXFkpYZa0n1V1sp3/preview', thumbnail: './assets/editing/13.png' },
