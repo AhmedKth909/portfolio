@@ -149,7 +149,7 @@ const galleryData = {
         subtitle: 'مجموعة مختارة من أفضل أعمال التصميم الجرافيكي',
         categories: ['الكل', 'العروض التقديمية', 'حملات وسائل التواصل الاجتماعي', 'الكاروسيل', 'الإعلانات + تصاميم', 'غلافات Reels'],
         items: [
-              { title: ' تصميم بوستر ولوغو نادي انكليزي في كلية الهمك', category: 'الإعلانات + تصاميم', description: 'تصميم بوستر ولوغو نادي انكليزي في كلية الهمك ', type: 'image', src: './assets/design/Designhawa.png',thumbnail: './assets/design/Designhawa.webp' },
+              { title: ' تصميم بوستر إعلاني لهوى الشام', category: 'الإعلانات + تصاميم', description: 'تصميم بوستر إعلاني لهوى الشام منتج  ', type: 'image', src: './assets/design/Designhawa.png',thumbnail: './assets/design/Designhawa.webp' },
             { title: ' تصميم بوستر ولوغو نادي انكليزي في كلية الهمك', category: 'الإعلانات + تصاميم', description: 'تصميم بوستر ولوغو نادي انكليزي في كلية الهمك ', type: 'image', src: './assets/design/EC.pdf',thumbnail: './assets/design/enclub2.png' },
             { title: ' إعادة تصميم لبوستر إعلاني لشركة يلاغو', category: 'الإعلانات + تصاميم', description: 'Redesign شركة يلاغو ', type: 'image', src: './assets/design/YFINAL.pdf',thumbnail: './assets/design/YFINAL234.webp' },
             { title: ' إعادة تصميم لبوستر إعلاني لشركة الأزرق', category: 'الإعلانات + تصاميم', description: 'Redesign لشركة الأزرق ', type: 'image', src: './assets/design/png2.pdf',thumbnail: './assets/design/FINAL234.webp' },
