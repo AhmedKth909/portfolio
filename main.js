@@ -149,7 +149,7 @@ const galleryData = {
         subtitle: 'مجموعة مختارة من أفضل أعمال التصميم الجرافيكي',
         categories: ['الكل', 'العروض التقديمية', 'حملات وسائل التواصل الاجتماعي', 'الكاروسيل', 'الإعلانات + تصاميم', 'غلافات Reels'],
         items: [
-            { title: ' إعادة تصميم لبوستر إعلاني لشركة الأزرق', category: 'الإعلانات + تصاميم', description: 'Redesign لشركة الأزرق ', type: 'image', src: './assets/design/png2.pdf',thumbnail: './assets/design/FINAL.png' },
+            { title: ' إعادة تصميم لبوستر إعلاني لشركة الأزرق', category: 'الإعلانات + تصاميم', description: 'Redesign لشركة الأزرق ', type: 'image', src: './assets/design/png2.pdf',thumbnail: './assets/design/FINAL234.webp' },
              { title: 'تصميم إعلان لمنتج', category: 'الإعلانات + تصاميم', description: 'إعادة تصميم إعلان لمنتج', type: 'image', src: './assets/design/spintun.webp',thumbnail: './assets/design/spintun.webp' },
              { title: 'تصميم لوصول الفريق إلى عدد من المتابعين', category: 'الإعلانات + تصاميم', description: 'تصميم  احتفالي على الفيسبوك', type: 'image', src: './assets/design/2k.webp',thumbnail: './assets/design/2k.webp' },
              { title: 'تصميم إعلان عصير صحي', category: 'الإعلانات + تصاميم', description: 'تصميم يحمل فكرة خلو المنتج من السكريات المضافة ', type: 'image', src: './assets/design/apple.webp',thumbnail: './assets/design/apple.webp' },
